@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "markdown-magic": "^1.0.0",
+    "markdown-magic": "^3.0.0",
     "typescript": "latest",
-    "glob": "^7.1.6",
+    "glob": "^9.0.0",
     "escape-regex-string": "^1.0.6"
   },
   "scripts": {
